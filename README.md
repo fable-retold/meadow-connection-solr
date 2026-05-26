@@ -1,6 +1,6 @@
 # meadow-connection-solr
 
-> **[&#9654; Read the Meadow-Connection-Solr Documentation](https://stevenvelozo.github.io/meadow-connection-solr/)** &mdash; interactive docs with the full API reference.
+> **[&#9654; Read the Meadow-Connection-Solr Documentation](https://fable-retold.github.io/meadow-connection-solr/)** &mdash; interactive docs with the full API reference.
 
 Apache Solr connection service for the Meadow data access layer.
 
@@ -108,14 +108,14 @@ npm run coverage
 
 ## Related Packages
 
-- [meadow](https://github.com/stevenvelozo/meadow) -- Data access layer and ORM
-- [fable](https://github.com/stevenvelozo/fable) -- Application framework and service manager
-- [foxhound](https://github.com/stevenvelozo/foxhound) -- Query generation DSL
-- [stricture](https://github.com/stevenvelozo/stricture) -- Schema definition and DDL tools
-- [meadow-endpoints](https://github.com/stevenvelozo/meadow-endpoints) -- RESTful endpoint generation
-- [meadow-connection-mysql](https://github.com/stevenvelozo/meadow-connection-mysql) -- MySQL / MariaDB connector
-- [meadow-connection-mongodb](https://github.com/stevenvelozo/meadow-connection-mongodb) -- MongoDB connector
-- [meadow-connection-postgresql](https://github.com/stevenvelozo/meadow-connection-postgresql) -- PostgreSQL connector
+- [meadow](https://github.com/fable-retold/meadow) -- Data access layer and ORM
+- [fable](https://github.com/fable-retold/fable) -- Application framework and service manager
+- [foxhound](https://github.com/fable-retold/foxhound) -- Query generation DSL
+- [stricture](https://github.com/fable-retold/stricture) -- Schema definition and DDL tools
+- [meadow-endpoints](https://github.com/fable-retold/meadow-endpoints) -- RESTful endpoint generation
+- [meadow-connection-mysql](https://github.com/fable-retold/meadow-connection-mysql) -- MySQL / MariaDB connector
+- [meadow-connection-mongodb](https://github.com/fable-retold/meadow-connection-mongodb) -- MongoDB connector
+- [meadow-connection-postgresql](https://github.com/fable-retold/meadow-connection-postgresql) -- PostgreSQL connector
 
 ## License
 
