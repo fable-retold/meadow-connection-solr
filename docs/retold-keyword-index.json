@@ -1,5 +1,5 @@
 {
-	"Generated": "2026-05-26T21:12:31.118Z",
+	"Generated": "2026-06-01T03:43:58.450Z",
 	"Mode": "module",
 	"DocumentCount": 15,
 	"LunrIndex": {
@@ -6792,18 +6792,6 @@
 				}
 			],
 			[
-				"seamless",
-				{
-					"_index": 88,
-					"title": {},
-					"module": {},
-					"group": {},
-					"body": {
-						"_cover.md": {}
-					}
-				}
-			],
-			[
 				"search",
 				{
 					"_index": 20,
@@ -7035,6 +7023,18 @@
 					"body": {
 						"api/createTables.md": {},
 						"quickstart.md": {}
+					}
+				}
+			],
+			[
+				"smooth",
+				{
+					"_index": 88,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
 					}
 				}
 			],
