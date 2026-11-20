@@ -3,6 +3,9 @@
 	"version": "1.0.3",
 	"description": "Meadow Solr Connection Plugin",
 	"main": "source/Meadow-Connection-Solr.js",
+	"files": [
+		"source"
+	],
 	"scripts": {
 		"coverage": "npx quack coverage",
 		"test": "npx quack test",
